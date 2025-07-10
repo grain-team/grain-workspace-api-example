@@ -1,0 +1,9 @@
+recordings/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.cursor_state.json
+grain-auth
+.claude
